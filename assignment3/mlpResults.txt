@@ -1,0 +1,8 @@
+                                Classification Error
+                                Training        Testing
+
+25HLN + no regularization       5.00            5.97
+75HLN + no regularization       2.36            4.26
+
+25HLN + l2 regularization       4.27            5.21
+75HLN + l2 regularization       2.31            3.56
